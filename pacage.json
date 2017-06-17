@@ -1,0 +1,16 @@
+{
+    "name": "m4.1protractor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "conf.js",
+    "dependencies": {
+        "protractor": "^5.1.2",
+        "string-format": "^0.5.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
